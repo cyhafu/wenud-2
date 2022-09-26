@@ -2,8 +2,6 @@
 # Wenud วีนัด
 # หาเพื่อนคุยสด กับแอพ Wenud แอพหาเพื่อนใกล้เคียง หาคู่ หาแฟน คนรู้ใจ
 
-![Wenud.com](https://wenud.com/)
-
 Wenud.com
 Wenud.com
 Wenud.com
