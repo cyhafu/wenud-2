@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle wenud",
+        "command": "wenud:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "wenud",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "wenud:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

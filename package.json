@@ -1,0 +1,22 @@
+{
+  "name": "wenud",
+  "main": "./lib/wenud",
+  "version": "0.0.0",
+  "description": "Wenud วีนัด หาเพื่อนคุยสด กับแอพ Wenud แอพหาเพื่อนใกล้เคียง หาคู่ หาแฟน คนรู้ใจ",
+  "keywords": [
+    "wenud",
+    "หาแฟน",
+    "หาเพื่อน",
+    "หาคู่"
+  ],
+  "activationCommands": {
+    "atom-workspace": "wenud:toggle"
+  },
+  "repository": "https://github.com/atom/wenud",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
